@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  Robotics Institute, Carnegie Mellon University
+</p>
+
+<p align="center">
   <a href="https://lyuxinghe.github.io/ParticleSplat-website/"><strong>Project Website</strong></a>
   &nbsp;·&nbsp;
   <a href="https://arxiv.org/abs/2609.19463"><strong>Paper</strong></a>
